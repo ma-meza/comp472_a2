@@ -1,8 +1,13 @@
 https://github.com/marque2/comp472_a2
 # Instructions
 1. Install Conda.
-2. Create a Conda Python (3.8) environment.
+2. Create and activate Conda Python (3.8) environment.
 ```
 conda create -y -n comp472_a2 python=3.8 -y
+conda activate comp472_a2
 ```
-5. Run the main.ipynb jupyter file with the previously created environment.
+3. Install XlsxWriter module to write to an Excel file
+```
+conda install -y XlsxWriter
+```
+4. Run the main.ipynb jupyter file with the previously created environment.

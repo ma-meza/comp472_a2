@@ -1,50 +1,50 @@
-A.BOOOA.B....XXC...D.C...DPPPE.....E
-AA..B.....B...XXC...O.C...O.DD..O...
-..AAB.....B...XXC...O.C...ODEE..OD..
-..O.AA..O...XXO.B.....B.CDD.E.C...E.
-AA..B.....B...XXC...O.C...O.DDEEO...
-..O.AA..O...XXO.B.....B..CDDE..C..E.
-AABBC.....C...XXD...O.D...O.EE..O...
-AA..B.....BC..XXDC..O.D...OEE...O...
-AA..BO....BO..XXCO..P.C...P.DD..P...
-AA..B.....B...XXC...OPC...OPDD..OP.. P3
-..O.AA..O.BCXXO.BC..........D.....D.
-..OPAA..OPBCXXOPBC....D.....D.......
-..O.AA..O..BXXO.CB....C.....D.PPP.D.
-..AABB..O.CDXXO.CD..O.E.....E.......
-..O.AA..O.BCXXO.BC....D.....D..EE...
-..AABB..O...XXO.C...O.C.....D.....D.
-..AABB..O...XXO.C...O.C.....D.PPP.D.
-..AABB..O..PXXO.CP..O.CP....D.....D.
-.AAOBB..PO..XXPOC...P.C.....D.....D.
-.ABBCC.AO...XXO.D...O.D.....E.....E.
-..AABB..O...XXO.C...O.C.....D...EED.
-A.BBCCA.O.D.XXO.D...O.......E.....E. B1
-..O.AA..O...XXO.B.....B.....C...DDC. O2
-..O.AA..O...XXO.B.....B.....C.DDEEC.
-..OABB..OA..XXO.C.....C.....D..EE.D.
-..O.AA..O...XXO.B.....B..C..D..CEED.
-..O.AA..O...XXO.B.....B.C...D.C.EED.
-..O.AA..O...XXO.B..P..B..P..C..PDDC.
-.....O.....O...XXO...P.....PAA...P.. O6
-OOOP.....P..XX.P.Q.....Q.ABB.Q.A.CC.
-AA.O.....O..XX.O.......P.B.CCP.BDD.P
-AAB.....BO..XX.O.....O.P.CDD.P.C...P
-OOOP.....P..XXAP....A..Q.BCC.Q.B...Q Q3
-AA.O.....O...XXO.......P.BCC.P.B...P
-AAOP....OP..XXOP...B...Q.BCC.Q.....Q
-AABB.O...P.O.XXP.O...P...CDD...C.... C3
-..MM.....O...XXO..AABO.P.CBDDP.C...P
-...AO....AO.XX.BO....B..............
-A...O.ABB.O...XXOC.....C..DPPP..D...
-....O...AAOB..XXOB....CC..DPPP..D...
-O.....OAA..POXX..PBCQQQPBCDEFFGGDEHH A12 O22
-...A...BBACC..XXD.....D.OOOEEE......
-....OP....OP.AXXOP.A..BB.C.....C.QQQ
-A.B.CCA.BOOOPXXD.EPF.D.EPFGGHIQQQ.HI
-..O.....OPPPXXOA...BBA.....C..QQQC..
-..AAB.....BC..XXDC..O.D...OEFFGGOE..
-OABBCCOADDEEOF.XXG.F...GPPP.HIQQQ.HI O1
-..O.....O.ABXXO.AB..................
-........AABBXX..CD....CDOOOPPP......
-...........AXXOP.ABBOPQ.C.OPQ.CDD.Q.
+Z.BOOOZ.B....AAC...D.C...DPPPE.....E
+ZZ..B.....B...AAC...O.C...O.DD..O...
+..ZZB.....B...AAC...O.C...ODEE..OD..
+..O.ZZ..O...AAO.B.....B.CDD.E.C...E.
+ZZ..B.....B...AAC...O.C...O.DDEEO...
+..O.ZZ..O...AAO.B.....B..CDDE..C..E.
+ZZBBC.....C...AAD...O.D...O.EE..O...
+ZZ..B.....BC..AADC..O.D...OEE...O...
+ZZ..BO....BO..AACO..P.C...P.DD..P...
+ZZ..B.....B...AAC...OPC...OPDD..OP.. P3
+..O.ZZ..O.BCAAO.BC..........D.....D.
+..OPZZ..OPBCAAOPBC....D.....D.......
+..O.ZZ..O..BAAO.CB....C.....D.PPP.D.
+..ZZBB..O.CDAAO.CD..O.E.....E.......
+..O.ZZ..O.BCAAO.BC....D.....D..EE...
+..ZZBB..O...AAO.C...O.C.....D.....D.
+..ZZBB..O...AAO.C...O.C.....D.PPP.D.
+..ZZBB..O..PAAO.CP..O.CP....D.....D.
+.ZZOBB..PO..AAPOC...P.C.....D.....D.
+.ZBBCC.ZO...AAO.D...O.D.....E.....E.
+..ZZBB..O...AAO.C...O.C.....D...EED.
+Z.BBCCZ.O.D.AAO.D...O.......E.....E. B1
+..O.ZZ..O...AAO.B.....B.....C...DDC. O2
+..O.ZZ..O...AAO.B.....B.....C.DDEEC.
+..OZBB..OZ..AAO.C.....C.....D..EE.D.
+..O.ZZ..O...AAO.B.....B..C..D..CEED.
+..O.ZZ..O...AAO.B.....B.C...D.C.EED.
+..O.ZZ..O...AAO.B..P..B..P..C..PDDC.
+.....O.....O...AAO...P.....PZZ...P.. O6
+OOOP.....P..AA.P.Q.....Q.ZBB.Q.Z.CC.
+ZZ.O.....O..AA.O.......P.B.CCP.BDD.P
+ZZB.....BO..AA.O.....O.P.CDD.P.C...P
+OOOP.....P..AAZP....Z..Q.BCC.Q.B...Q Q3
+ZZ.O.....O...AAO.......P.BCC.P.B...P
+ZZOP....OP..AAOP...B...Q.BCC.Q.....Q
+ZZBB.O...P.O.AAP.O...P...CDD...C.... C3
+..MM.....O...AAO..ZZBO.P.CBDDP.C...P
+...ZO....ZO.AA.BO....B..............
+Z...O.ZBB.O...AAOC.....C..DPPP..D...
+....O...ZZOB..AAOB....CC..DPPP..D...
+O.....OZZ..POAA..PBCQQQPBCDEFFGGDEHH Z12 O22
+...Z...BBZCC..AAD.....D.OOOEEE......
+....OP....OP.ZAAOP.Z..BB.C.....C.QQQ
+Z.B.CCZ.BOOOPAAD.EPF.D.EPFGGHIQQQ.HI
+..O.....OPPPAAOZ...BBZ.....C..QQQC..
+..ZZB.....BC..AADC..O.D...OEFFGGOE..
+OZBBCCOZDDEEOF.AAG.F...GPPP.HIQQQ.HI O1
+..O.....O.ZBAAO.ZB..................
+........ZZBBAA..CD....CDOOOPPP......
+...........ZAAOP.ZBBOPQ.C.OPQ.CDD.Q.
