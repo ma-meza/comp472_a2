@@ -1,0 +1,53 @@
+Initial board configuration: JBBCCCJDD..MJAAL.MFFKL.N..KGGN.HH...
+
+J B B C C C 
+J D D . . M 
+J A A L . M 
+F F K L . N 
+. . K G G N 
+. H H . . . 
+
+Car fuel available: J:100, B:100, C:100, D:100, M:100, A:100, L:100, F:100, K:100, N:100, G:100, H:100
+
+Runtime: 152.82 seconds
+Search path length: 5383
+Solution path length: 30
+Solution path: L up 1; N down 1; H left 1; K down 1; F right 1; J down 1; B left 1; J down 1; D left 1; F right 1; F right 1; F right 1; L down 1; K up 1; H right 1; J down 1; A left 1; K up 1; K up 1; K up 1; A right 1; G left 1; G left 1; L down 1; A right 1; A right 1; K down 1; C left 1; M up 1; A right 1
+
+L up 1       99 JBBCCCJDDL.MJAAL.MFFK..N..KGGN.HH...
+N down 1       99 JBBCCCJDDL.MJAAL.MFFK.....KGGN.HH..N
+H left 1       99 JBBCCCJDDL.MJAAL.MFFK.....KGGNHH...N
+K down 1       99 JBBCCCJDDL.MJAAL.MFF......KGGNHHK..N
+F right 1       99 JBBCCCJDDL.MJAAL.M.FF.....KGGNHHK..N
+J down 1       99 .BBCCCJDDL.MJAAL.MJFF.....KGGNHHK..N
+B left 1       99 BB.CCCJDDL.MJAAL.MJFF.....KGGNHHK..N
+J down 1       98 BB.CCC.DDL.MJAAL.MJFF...J.KGGNHHK..N
+D left 1       99 BB.CCCDD.L.MJAAL.MJFF...J.KGGNHHK..N
+F right 1       98 BB.CCCDD.L.MJAAL.MJ.FF..J.KGGNHHK..N
+F right 1       97 BB.CCCDD.L.MJAAL.MJ..FF.J.KGGNHHK..N
+F right 1       96 BB.CCCDD.L.MJAAL.MJ...FFJ.KGGNHHK..N
+L down 1       98 BB.CCCDD...MJAAL.MJ..LFFJ.KGGNHHK..N
+K up 1       98 BB.CCCDD...MJAAL.MJ.KLFFJ.KGGNHH...N
+H right 1       98 BB.CCCDD...MJAAL.MJ.KLFFJ.KGGN.HH..N
+J down 1       97 BB.CCCDD...M.AAL.MJ.KLFFJ.KGGNJHH..N
+A left 1       99 BB.CCCDD...MAA.L.MJ.KLFFJ.KGGNJHH..N
+K up 1       97 BB.CCCDD...MAAKL.MJ.KLFFJ..GGNJHH..N
+K up 1       96 BB.CCCDDK..MAAKL.MJ..LFFJ..GGNJHH..N
+K up 1       95 BBKCCCDDK..MAA.L.MJ..LFFJ..GGNJHH..N
+A right 1       98 BBKCCCDDK..M.AAL.MJ..LFFJ..GGNJHH..N
+G left 1       99 BBKCCCDDK..M.AAL.MJ..LFFJ.GG.NJHH..N
+G left 1       98 BBKCCCDDK..M.AAL.MJ..LFFJGG..NJHH..N
+L down 1       97 BBKCCCDDK..M.AA..MJ..LFFJGGL.NJHH..N
+A right 1       97 BBKCCCDDK..M..AA.MJ..LFFJGGL.NJHH..N
+A right 1       96 BBKCCCDDK..M...AAMJ..LFFJGGL.NJHH..N
+K down 1       94 BB.CCCDDK..M..KAAMJ..LFFJGGL.NJHH..N
+C left 1       99 BBCCC.DDK..M..KAAMJ..LFFJGGL.NJHH..N
+M up 1       99 BBCCCMDDK..M..KAA.J..LFFJGGL.NJHH..N
+A right 1       95 BBCCCMDDK..M..K.AAJ..LFFJGGL.NJHH..N
+
+B B C C C M 
+D D K . . M 
+. . K . A A 
+J . . L F F 
+J G G L . N 
+J H H . . N 
