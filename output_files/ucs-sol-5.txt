@@ -12,4 +12,4 @@ Car fuel available: I:100, J:100, B:100, C:100, D:100, L:100, A:100, E:100, K:10
 Sorry, could not solve the puzzle as specified.
 Erorr: no solution found.
 
-Runtime: 2.36 seconds
+Runtime: 2.74 seconds

@@ -9,7 +9,7 @@ F F . J . .
 
 Car fuel available: I:100, B:100, K:100, G:100, H:100, A:100, L:100, D:100, J:100, E:100, F:100
 
-Runtime: 46.99 seconds
+Runtime: 39.28 seconds
 Search path length: 1835
 Solution path length: 10
 Solution path: K right 1; H right 1; A right 1; L right 1; D right 1; J right 1; D right 1; E right 1; K right 1; A right 1
